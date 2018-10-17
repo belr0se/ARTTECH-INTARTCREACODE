@@ -1,1 +1,1 @@
-# ARTTECH-INTARTCREACODE
+Interactive art and Creative Coding Repo
